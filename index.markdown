@@ -5,3 +5,7 @@
 layout: landing_page
 ---
 Landing Page for eGuardian Angel
+
+[Link to About Page](./about.markdown)
+
+[Link to Tutorial Page](./tutorial.markdown)

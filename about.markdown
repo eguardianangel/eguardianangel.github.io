@@ -1,7 +1,15 @@
 ---
 layout: default
-title: About
+title: The Research
 permalink: /about/
 ---
 
-Learning More about the eGuardian Angel Project
+# Social Contagion
+
+# Network Topologies
+
+## Ring
+
+## Random
+
+## Centralised
