@@ -4,12 +4,24 @@ title: The Research
 permalink: /about/
 ---
 
+The driving force behind the eGuardian angel project is a desire to redistribute the increasing burden on the healthcare system. The eGuardian angel model seeks to shift caregiving from being the sole role of clinicians to being a patient orientated model, particularly in the realm of chronic disease treatment and management, as well as rehabilitation. The aim of the eGuardian angel project is to harness the transformative role social connection plays in the physical and mental health of individuals, so as to improve the quality of healthcare received by individuals, whilst also effectively managing the increasing demands that current clinicians and healthcare services face.
+
 # Social Contagion
+
+Social contagion theory, as introduced by Nicholas Christakis and James Fowler in their 2011 paper, "Social contagion theory: examining dynamic social networks and human behaviour", describes a phenomenon where the attitudes of one person can influence others at a range of up to three degrees of separation. The two focuses of the eGuardian App are more specifically emotional contagion and motivational contagion, as the aim of the project is to increase both the positivity of individuals in respect to their treatment and recovery, as well as the motivation individual's have to follow medical recommendations including lifestyle choices and medication regiments.
 
 # Network Topologies
 
+During the research and development phase of the eGuardian Angel Prototype, multiple network topologies were modelled using agent based computer simulations. These simulations were conducted in order to determine what the most effective structure would be in implementation. Whilst all three network topologies that were modelled showed overall increases in positivity and motivation indicators on average, the distribution of the benefits amongst the individuals were very varied in the three simulations. As the aim of the eGuardian Angel system is to see the largest possible benefit for the largest amount of people, this distribution of benefit was the largest factor taken into consideration when determining which topology to use in implementation.
+
 ## Ring
+
+The ring topology connects individuals such that every individual in the network is the angel of one person, and the child of another. The simulations conducted found that the ring topology network was the most effective way to make sure everyone within the network got the largest benefit overall in terms of their positivity and motivation. The flow on effect that is seen in this model is testament to the powerful force of social contagion. Due to the ring topology having the largest benefit for the largest number of users, it was selected to be implemented in the prototype for the eGuardian Angel App.
 
 ## Random
 
-## Centralised
+The random topology, as the name suggests, connects individuals in the network in an arbitrary way. Whilst the model does ensure that every individual in the network was connected to at least one other, there is no guarantee that each individual both receives advice and gives it, limiting the capacity for the benefits of social contagion to be reaped. Through modelling the random network, it was seen that some individuals saw excellent results, due to the high number of connections they had, whilst others saw an overall decrease in motivation and positivity due to the uneven distribution of care. For this reason the random topology was not used in the implementation, as we desired to see the greatest impact, for the greatest number of patients.
+
+## Point-to-Point
+
+The point-to-point topology, which is also commonly referred to as the pair-buddy network, connects individuals in a segregated, two-way relationships. With this topology, it would mean that the individual that you receive care from is also the individual that you would give care to. The main issue that was found with this topology was the lack of interconnectivity between individuals in the network, resulting in an unequal distribution of benefits. Individuals within the network with a pre-existing low level of motivation or positivity were too isolated, and could not reap flow on benefits from individuals with naturally higher level of positivity and motivation, instead being stuck in a cycle where they were primarily influenced by their existing predispositions. 

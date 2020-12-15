@@ -4,7 +4,7 @@ title: Using the eGuardian Angel App
 permalink: /tutorial/
 ---
 
-Tutorial to learn about how to use the eGuardian App
+The eGuardian Angel App was developed in consultation with the cardiac rehabilitation staff at Westmead hospital. 
 
 ## Create Account or Login
 
