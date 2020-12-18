@@ -1,5 +1,5 @@
 ---
-layout: default
-title: Change Your Detail on the eGuardian Angel App
+layout: tutorial
+title: Changing Your Details on the eGuardian Angel App
 permalink: /tutorial/change_details
 ---
