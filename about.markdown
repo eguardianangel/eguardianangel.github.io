@@ -6,6 +6,27 @@ permalink: /about/
 
 The driving force behind the eGuardian angel project is a desire to redistribute the increasing burden on the healthcare system. The eGuardian angel model seeks to shift caregiving from being the sole role of clinicians to being a patient orientated model, particularly in the realm of chronic disease treatment and management, as well as rehabilitation. The aim of the eGuardian angel project is to harness the transformative role social connection plays in the physical and mental health of individuals, so as to improve the quality of healthcare received by individuals, whilst also effectively managing the increasing demands that current clinicians and healthcare services face.
 
+<style>
+    #video_container {   position: relative;
+							padding-bottom: 56.25%;
+    						padding-top: 35px;
+    						height: 0;
+    						overflow: hidden }
+</style>
+
+<style>
+    #video { position: absolute;
+    			top:0;
+    			left: 0;
+    			width: 100%;
+    			height: 100%;}
+</style>
+
+<div id="video_container">
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/3ZM8xnmV5eU" id="video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	</iframe>
+</div>
+
 # Social Contagion
 
 Social contagion theory, as introduced by Nicholas Christakis and James Fowler in their 2011 paper, "Social contagion theory: examining dynamic social networks and human behaviour", describes a phenomenon where the attitudes of one person can influence others at a range of up to three degrees of separation. The two focuses of the eGuardian App are more specifically emotional contagion and motivational contagion, as the aim of the project is to increase both the positivity of individuals in respect to their treatment and recovery, as well as the motivation individual's have to follow medical recommendations including lifestyle choices and medication regiments.
@@ -14,7 +35,7 @@ Social contagion theory, as introduced by Nicholas Christakis and James Fowler i
 
 Participation in the eGuardian Angel Project as either a 'Child' or an 'Angel' is anonymous, meaning other people within the
 program will not be aware of your identity, and you will not be aware of theirs. This is because studies have found that
-individuals, particularly in an online environment, are more likely to open up about their experiences when they feel they have anonymity. For individuals to get the largest possible benefit from the application, it is essential that they feel they can be transparent with others and communicate freely, without fear of judgement. To counteract the potential negative effects of anonymity in the application, the application allows any individual to report their 'Angel' or 'Child' if they feel they are adversely affecting them or are taking advantage of the anonymity feature to disseminate negative feedback without fear of consequences. 
+individuals, particularly in an online environment, are more likely to open up about their experiences when they feel they have anonymity. For individuals to get the largest possible benefit from the application, it is essential that they feel they can be transparent with others and communicate freely, without fear of judgement. To counteract the potential negative effects of anonymity in the application, the application allows any individual to report their 'Angel' or 'Child' if they feel they are adversely affecting them or are taking advantage of the anonymity feature to disseminate negative feedback without fear of consequences.
 
 # Network Topologies
 
