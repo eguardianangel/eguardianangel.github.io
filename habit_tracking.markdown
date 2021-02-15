@@ -23,6 +23,6 @@ eGuardian Angel logging functionality.
 </style>
 
 <div id="video_container">
-	<iframe width="560" height="315" src="https://www.youtube.com/embed/BW-PV6ypOYw" id="video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
+	<iframe width="560" height="315" src="https://www.youtube.com/embed/py_Wv37t3PY" id="video" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen>
 	</iframe>
 </div>
